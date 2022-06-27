@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601408388444",
+    "project_id": "login-517c5",
+    "storage_bucket": "login-517c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601408388444:android:26ee38a4c378513c875599",
+        "android_client_info": {
+          "package_name": "me.upp.daligz.app.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601408388444-p02oc09n0rkph0ota14282hag4vq052o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBza736qPBZO6aGRJYcRQpCZs7vhnJyY7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601408388444-p02oc09n0rkph0ota14282hag4vq052o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
